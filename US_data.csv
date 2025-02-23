@@ -1,4 +1,4 @@
-Entity,Day,"Daily new confirmed cases of COVID-19 per million people (rolling 7-day average, right-aligned)"
+Entity,Day,"Cases"
 United States,2020-03-01,0.013803268
 United States,2020-03-02,0.014221548
 United States,2020-03-03,0.021750603
